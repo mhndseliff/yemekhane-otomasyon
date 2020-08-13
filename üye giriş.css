@@ -1,0 +1,49 @@
+﻿.TextBox1 {
+    position: absolute;
+    left: 500px;
+    top: 40px;
+    text-align: center;
+}
+
+
+.TextBox2 {
+    position: absolute;
+    top: 110px;
+    left: 480px;
+}
+
+
+
+.Text1 {
+    position: absolute;
+    top: 150px;
+    left: 480px;
+    width: 340px;
+}
+
+.TextBox3 {
+    position: absolute;
+    top: 190px;
+    left: 480px;
+    width: 300px;
+}
+
+.Password1 {
+    position: absolute;
+    top: 230px;
+    left: 480px;
+    width: 340px;
+}
+
+.CheckBox1 {
+    position: absolute;
+    top: 260px;
+    left: 480px;
+}
+
+.Button1 {
+    position: absolute;
+    top: 300px;
+    left: 480px;
+    width: 90px;
+}

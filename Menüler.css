@@ -1,0 +1,62 @@
+﻿.TextBox1{
+    position:absolute;
+    left:360px;
+    top:20px;
+    
+}
+
+
+.Listbox3 {
+    position: absolute;
+    top: 110px;
+}
+
+.Button1{
+    position:absolute;
+    left:250px;
+    top:15px;
+}
+
+.Button2 {
+    position: absolute;
+    left: 540px;
+    top: 200px;
+}
+
+
+.Button3 {
+    position: absolute;
+    left: 670px;
+    top: 200px;
+}
+
+.ListBox1 {
+    position: absolute;
+    left: 360px;
+    top: 90px;
+    height:900px;
+}
+
+.ListBox2 {
+    position: absolute;
+    left: 700px;
+    top: 90px;
+}
+
+.Label1 {
+    position: absolute;
+    top: 90px;
+    left:20px;
+}
+
+.Label2 {
+    position: absolute;
+    top: 330px;
+    left: 920px;
+}
+
+.ImageButton1 {
+    position: absolute;
+    top: 310px;
+    left: 870px;
+}

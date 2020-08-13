@@ -1,0 +1,36 @@
+﻿.Label1 {
+    position: absolute;
+    font-family: Arial;
+    font-size: 12pt;
+    font-style: italic;
+    left: 100px;
+    color: white;
+}
+
+
+.Label2 {
+    color: white;
+    font-style: italic;
+    font-size: 12pt;
+    position: absolute;
+    top: 50px;
+    left: 190px;
+}
+
+.Button1 {
+    position: absolute;
+    left: 1210px;
+    top: 20px;
+}
+
+
+.Label3 {
+    position: absolute;
+    left: 200px;
+}
+
+.Button2 {
+    position: absolute;
+    top: 380px;
+    left: 600px;
+}

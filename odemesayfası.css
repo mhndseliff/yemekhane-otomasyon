@@ -1,0 +1,62 @@
+﻿.Label1 {
+    position:absolute;
+    left:410px;
+    top:30px;
+}
+
+
+.Label2 {
+    position: absolute;
+    left: 350px;
+    top: 90px;
+}
+
+
+.TextBox1 {
+    position: absolute;
+    left: 350px;
+    top: 120px;
+}
+
+
+.Label3 {
+    position: absolute;
+    left: 350px;
+    top: 180px;
+}
+
+.TextBox2 {
+    position: absolute;
+    left: 350px;
+    top: 210px;
+}
+
+.Label4 {
+    position: absolute;
+    left: 350px;
+    top: 250px;
+}
+
+.TextBox3 {
+    position: absolute;
+    left: 350px;
+    top: 280px;
+}
+
+.Label5 {
+    position: absolute;
+    left: 650px;
+    top: 150px;
+}
+
+.Label6 {
+    position: absolute;
+    left: 650px;
+    top: 180px;
+}
+
+.ImageButton1 {
+    position: absolute;
+    left: 650px;
+    top: 210px;
+}
